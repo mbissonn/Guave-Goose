@@ -1,0 +1,9 @@
+- show aesthetic of bulma tiles, see if she likes them
+
+- name for the board, should we make suggestions?
+
+- color scheme: background, font, posts(maybe 3?)
+
+- font 
+
+- icons for upvote & downvote 
